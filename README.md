@@ -1,7 +1,7 @@
 # HotoVaga
 Not your typical rock paper scissors!
 HotoVaga is a game has been implemented using python as the coding language, OpenCV as
-our library for this computer vision project. In order to determine the player's move
+the library for this computer vision project. In order to determine the player's move
 and generate a random move for the AI, hand tracking has been used. We tried to
 make our AI friend do two things, which are:
 1. Learning to recognize our hand signs.
